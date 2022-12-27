@@ -12,6 +12,7 @@ programmers algorithm study
 
 문제소스코드
 -------------
+<details>
 <summary>문제 소스 코드</summary>
 
 [도경원 소스 코드](https://google.com)
